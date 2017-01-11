@@ -1,4 +1,4 @@
 BotSnack!
 =========
 
-Comment on #1 including the text `botsnack` to give @botsbot a snack!
+Comment on #1 including the text `botsnack` to give [@botsbot](https://github.com/botsbot) a snack!
