@@ -1,4 +1,3 @@
-BotSnack!
-=========
+This repo is no longer used for demos, please instead visit:
 
-Comment on #1 including the text `botsnack` to give [@botsbot](https://github.com/botsbot) a snack!
+# https://github.com/BOTSbot/hello-world/issues/1
